@@ -1,0 +1,36 @@
+## Build and output
+**/[Bb]in/
+**/[Oo]bj/
+**/*.pdb
+**/*.dll
+**/*.exe
+**/*.idb
+**/*.lock.json
+
+## Local IDE files
+# VS Code
+.vscode/
+# Visual Studio
+*.suo
+*.user
+*.useros
+*.vs/
+*.vshost.*
+
+# NuGet packages
+packages/
+**/project.assets.json
+# Rider
+.idea/
+
+## User Secrets & Configuration
+# Do not commit API keys or passwords!
+appsettings*.Development.json
+appsettings*.Production.json
+appsettings*.Staging.json
+*.db
+*.sqlite
+# MSBuild secrets
+*.secrets.json
+
+**/Notes.txt
