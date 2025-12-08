@@ -34,5 +34,18 @@ var answer3_1 = Day3Puzzles.SolvePuzzle1(inputs);
 Console.WriteLine($"Day 3 Puzzle 1: {answer3_1}");
 
 var answer3_2 = Day3Puzzles.SolvePuzzle2(inputs);
-Console.WriteLine($"Day 3 Puzzle 3: {answer3_2}");
+Console.WriteLine($"Day 3 Puzzle 2: {answer3_2}");
+*/
+
+/* Day 4
+using Advent_Of_Code_2025.Day4;
+
+string path_4 = "../../../Day4/Day4Input";
+var inputs = await Day4Puzzles.Read(path_4);
+
+var answer4_1 = Day4Puzzles.SolvePuzzle1(inputs);
+Console.WriteLine($"Day 4 Puzzle 1: {answer4_1}");
+
+var answer4_2 = Day4Puzzles.SolvePuzzle2(inputs);
+Console.WriteLine($"Day 4 Puzzle 2: {answer4_2}");
 */
