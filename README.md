@@ -1,10 +1,14 @@
 # Advent of Code 2025
 
-My solutions to Advent of Code 2025 puzzles, implemented in C#/.NET.
+My solutions to Advent of Code 2025 puzzles, implemented in C#.
 
 ---
 
 # How to Use
+
+### Prerequisites
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
+- Visual Studio 2026 (or VS Code with C# extension)
 
 Follow these steps to build and run the solutions for a specific day:
 
