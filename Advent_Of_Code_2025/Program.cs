@@ -62,3 +62,16 @@ Console.WriteLine($"Day 5 Puzzle 1: {answer5_1}");
 var answer5_2 = Day5Puzzles.SolvePuzzle2(inputs);
 Console.WriteLine($"Day 5 Puzzle 2: {answer5_2}");
 */
+
+/* Day 6
+using Advent_Of_Code_2025.Day6;
+
+string path_6 = "../../../Day6/Day6Input";
+var inputs = await Day6Puzzles.Read(path_6);
+
+var answer6_1 = Day6Puzzles.SolvePuzzle1(inputs);
+Console.WriteLine($"Day 6 Puzzle 1: {answer6_1}");
+
+var answer6_2 = Day6Puzzles.SolvePuzzle2(inputs);
+Console.WriteLine($"Day 6 Puzzle 2: {answer6_2}");
+*/
