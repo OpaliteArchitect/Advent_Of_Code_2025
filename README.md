@@ -1,6 +1,6 @@
 # Advent of Code 2025
 
-My solutions to Advent of Code 2025 puzzles, implemented in C#.
+My solutions to [Advent of Code 2025 puzzles](https://adventofcode.com/2025), implemented in C#.
 
 ---
 
