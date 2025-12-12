@@ -1,4 +1,5 @@
-﻿/* Day 1
+﻿// Day 1
+/*
 using Advent_Of_Code_2025.Day1;
 
 string path_1 = "../../../Day1/Day1Input";
@@ -11,7 +12,8 @@ var answer1_2 = Day1Puzzles.SolvePuzzle2(inputs);
 Console.WriteLine($"Day 1 Puzzle 2: {answer1_2}");
 */
 
-/* Day 2
+// Day 2
+/*
 using Advent_Of_Code_2025.Day2;
 
 string path_2 = "../../../Day2/Day2Input";
@@ -24,7 +26,8 @@ var answer2_2 = Day2Puzzles.SolvePuzzle2(inputs);
 Console.WriteLine($"Day 2 Puzzle 2: {answer2_2}");
 */
 
-/* Day 3
+// Day 3
+/*
 using Advent_Of_Code_2025.Day3;
 
 string path_3 = "../../../Day3/Day3Input";
@@ -37,7 +40,8 @@ var answer3_2 = Day3Puzzles.SolvePuzzle2(inputs);
 Console.WriteLine($"Day 3 Puzzle 2: {answer3_2}");
 */
 
-/* Day 4
+// Day 4
+/*
 using Advent_Of_Code_2025.Day4;
 
 string path_4 = "../../../Day4/Day4Input";
@@ -50,7 +54,8 @@ var answer4_2 = Day4Puzzles.SolvePuzzle2(inputs);
 Console.WriteLine($"Day 4 Puzzle 2: {answer4_2}");
 */
 
-/* Day 5
+// Day 5
+/*
 using Advent_Of_Code_2025.Day5;
 
 string path_5 = "../../../Day5/Day5Input";
@@ -63,7 +68,8 @@ var answer5_2 = Day5Puzzles.SolvePuzzle2(inputs);
 Console.WriteLine($"Day 5 Puzzle 2: {answer5_2}");
 */
 
-/* Day 6
+// Day 6
+/*
 using Advent_Of_Code_2025.Day6;
 
 string path_6 = "../../../Day6/Day6Input";
@@ -76,7 +82,8 @@ var answer6_2 = Day6Puzzles.SolvePuzzle2(inputs);
 Console.WriteLine($"Day 6 Puzzle 2: {answer6_2}");
 */
 
-/* Day 7
+// Day 7
+/*
 using Advent_Of_Code_2025.Day7;
 
 string path_7 = "../../../Day7/Day7Input";
@@ -87,4 +94,18 @@ Console.WriteLine($"Day 7 Puzzle 1: {answer7_1}");
 
 var answer7_2 = Day7Puzzles.SolvePuzzle2(inputs);
 Console.WriteLine($"Day 7 Puzzle 2: {answer7_2}");
+*/
+
+// Day 8
+/*
+using Advent_Of_Code_2025.Day8;
+
+string path_8 = "../../../Day8/Day8Input";
+var inputs = await Day8Puzzles.Read(path_8);
+
+var answer8_1 = Day8Puzzles.SolvePuzzle1(inputs);
+Console.WriteLine($"Day 8 Puzzle 1: {answer8_1}");
+
+var answer8_2 = Day8Puzzles.SolvePuzzle2(inputs);
+Console.WriteLine($"Day 8 Puzzle 2: {answer8_2}");
 */
